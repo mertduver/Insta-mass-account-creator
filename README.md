@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square)
 ![Version](https://img.shields.io/badge/release-beta-green.svg?style=flat-square)
 
-<a href="https://www.buymeacoffee.com/Uo8YEsT" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+#### Actively not being maintained, due to different challenges. if you would like to maintain this project contact me!
 
 Create a new virtualenv
 
@@ -19,6 +19,7 @@ open config.py in modules
 
 | Config               | Usage                                                                                                |
 | :------------------- | :--------------------------------------------------------------------------------------------------- |
+| chromedriver_path    | Path to chromedriver                                                                                 |
 | bot_type             | Default is 1 to use selenium to create accounts or use 2 to use python requests                      |
 | password             | General password for Each account generated to be able to login                                      |
 | use_local_ip_address | using local Ip to create account, default is False                                                   |
